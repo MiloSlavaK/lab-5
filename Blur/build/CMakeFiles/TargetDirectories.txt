@@ -1,0 +1,3 @@
+C:/Users/Mila/labs/lab-5/Blur/build/CMakeFiles/ImageBlur.dir
+C:/Users/Mila/labs/lab-5/Blur/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Mila/labs/lab-5/Blur/build/CMakeFiles/ZERO_CHECK.dir

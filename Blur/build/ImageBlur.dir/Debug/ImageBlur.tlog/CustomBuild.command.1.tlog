@@ -1,0 +1,10 @@
+^C:\USERS\MILA\LABS\LAB-5\BLUR\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Mila/labs/lab-5/Blur -BC:/Users/Mila/labs/lab-5/Blur/build --check-stamp-file C:/Users/Mila/labs/lab-5/Blur/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
