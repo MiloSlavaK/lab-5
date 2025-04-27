@@ -1,0 +1,10 @@
+^C:\USERS\MILA\LABS\LAB-5\OPENMP\BUILD\CMAKEFILES\8A349487827030DC8599D424E945CAE0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Mila/labs/lab-5/OpenMP -BC:/Users/Mila/labs/lab-5/OpenMP/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Mila/labs/lab-5/OpenMP/build/ImageBlurOMP.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

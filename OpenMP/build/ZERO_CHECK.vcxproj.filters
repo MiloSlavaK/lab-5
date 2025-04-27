@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Mila\labs\lab-5\OpenMP\build\CMakeFiles\8a349487827030dc8599d424e945cae0\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{78B2DED7-B40E-3465-A5F9-A2604EE22869}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

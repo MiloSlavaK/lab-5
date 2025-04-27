@@ -1,0 +1,3 @@
+C:/Users/Mila/labs/lab-5/OpenMP/build/CMakeFiles/ImageBlurOMP.dir
+C:/Users/Mila/labs/lab-5/OpenMP/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Mila/labs/lab-5/OpenMP/build/CMakeFiles/ZERO_CHECK.dir
